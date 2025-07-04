@@ -20,7 +20,7 @@ I want to:
 - Learn Python for nanotech + scientific coding
 - Land a research internship abroad
 - Build cool open-source projects
-- Stand out in college from Day 1 😎
+  
 
 ---
 
